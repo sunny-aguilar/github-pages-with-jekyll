@@ -1,7 +1,7 @@
 ---
-title: "First Blog Post"
-date: 2018-09-16
-
+title: "First blog post"
+date: 2018-9-18
+---
 
 title: Software Developer
 author: sunny-aguilar
@@ -16,4 +16,4 @@ github_username:  sunny-aguilar
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
----
+
