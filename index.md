@@ -1,3 +1,9 @@
 # Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+## Sandro Aguilar
+#### SOFTWARE DEVELOPER
+##### Skills
+* C++
+* JavaScript
+* Python
+* PHP
+* SQL
